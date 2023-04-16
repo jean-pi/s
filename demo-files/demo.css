@@ -1,0 +1,13 @@
+﻿
+.divContainer{
+    font-family: Open Sans Bold;
+    margin: 15rem 0 0 25rem;
+    display: flex;
+}
+.a{
+    font-size: 2rem;
+}
+.b{
+    font-size: 1rem;
+    margin-left: .7rem;
+}
